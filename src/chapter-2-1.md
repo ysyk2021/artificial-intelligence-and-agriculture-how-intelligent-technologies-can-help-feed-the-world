@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial Intelligence (AI) has a long and rich history rooted in mathematics, computer science, psychology, and philosophy. In this chapter, we will provide a brief overview of the history of AI, including its early development and major milestones.
 

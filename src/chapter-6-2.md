@@ -1,5 +1,3 @@
-Job Creation and Training Needs
-======================================================================================
 
 The adoption of artificial intelligence (AI) technologies in the agriculture industry can lead to significant improvements in production efficiency, yield, and food safety. However, concerns have been raised about the potential impact of these technologies on employment and the wider economy. In this chapter, we will explore the economic implications of AI in agriculture, focusing on job creation and training needs.
 

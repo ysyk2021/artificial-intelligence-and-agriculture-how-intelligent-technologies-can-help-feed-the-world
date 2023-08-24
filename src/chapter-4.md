@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Agriculture
-====================================
 
 The use of Artificial Intelligence (AI) technologies in agriculture is rapidly increasing, with potential benefits including increased efficiency, productivity, and sustainability. This chapter will explore the role of AI in agriculture, including its benefits and limitations.
 

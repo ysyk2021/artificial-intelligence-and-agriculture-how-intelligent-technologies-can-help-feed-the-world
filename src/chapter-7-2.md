@@ -1,5 +1,3 @@
-Legal Framework
-=================================================================================
 
 As artificial intelligence (AI) technologies become more prevalent in agriculture, ethical and legal concerns related to their use are emerging. In this chapter, we will examine some of the key legal frameworks and regulations that apply to the use of AI in agriculture.
 

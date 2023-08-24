@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial Intelligence (AI) is a rapidly evolving field that intersects with various domains such as computer science, engineering, mathematics, and psychology. In this chapter, we will provide a high-level overview of the background and fundamentals of AI, including the various types of AI.
 

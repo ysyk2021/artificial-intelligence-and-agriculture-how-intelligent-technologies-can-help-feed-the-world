@@ -1,5 +1,3 @@
-Chapter 8: Future of AI and Agriculture
-=======================================
 
 Emerging Trends and Future Prospects
 ------------------------------------

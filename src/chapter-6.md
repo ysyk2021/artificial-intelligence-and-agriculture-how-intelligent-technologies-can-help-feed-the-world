@@ -1,5 +1,3 @@
-Chapter 6: Economic Implications of AI in Agriculture
-=====================================================
 
 The use of Artificial Intelligence (AI) technologies in agriculture has significant economic implications, including cost savings, efficiency improvements, and job creation. This chapter will explore the economic impacts of AI in agriculture, including its potential benefits and challenges.
 

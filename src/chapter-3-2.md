@@ -1,5 +1,3 @@
-Components of Agricultural Industry
-=====================================================================
 
 The agriculture industry comprises a diverse range of sub-sectors and stakeholders, from farmers and ranchers to processors and distributors. In this chapter, we will explore the key components of the agriculture landscape, including production, processing, distribution, and marketing.
 

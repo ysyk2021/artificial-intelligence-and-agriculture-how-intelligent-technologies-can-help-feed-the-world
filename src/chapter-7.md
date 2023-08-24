@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Issues Related to AI in Agriculture
-================================================================
 
 The use of Artificial Intelligence (AI) technologies in agriculture raises ethical and legal concerns related to their impact on society, environment, and the economy. This chapter will explore the ethical and legal issues related to AI in agriculture, including its potential benefits and challenges.
 

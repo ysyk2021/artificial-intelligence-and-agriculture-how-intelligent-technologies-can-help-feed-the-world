@@ -1,5 +1,3 @@
-Ethical Considerations
-========================================================================================
 
 The use of artificial intelligence (AI) technologies in agriculture presents a wide range of ethical and legal issues that must be carefully considered. In this chapter, we will explore some of the key ethical considerations related to the use of AI in agriculture.
 

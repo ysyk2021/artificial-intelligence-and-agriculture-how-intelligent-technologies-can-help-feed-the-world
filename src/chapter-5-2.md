@@ -1,5 +1,3 @@
-Livestock Management and Health
-=============================================================================
 
 The livestock industry is a critical component of the agriculture sector, providing meat, milk, and other products to consumers worldwide. The proper management and health of livestock are essential to maintaining profitability and ensuring food safety. In recent years, the integration of artificial intelligence (AI) technologies has shown great potential in enhancing livestock management and improving animal health.
 

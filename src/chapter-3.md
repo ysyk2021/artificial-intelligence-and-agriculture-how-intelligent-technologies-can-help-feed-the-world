@@ -1,5 +1,3 @@
-Chapter 3: Agriculture Landscape
-================================
 
 The global landscape of agriculture is diverse and complex, with different regions and countries facing unique challenges and opportunities. This chapter will explore the key trends and components of the agriculture industry, providing a broad overview of the agricultural landscape.
 
