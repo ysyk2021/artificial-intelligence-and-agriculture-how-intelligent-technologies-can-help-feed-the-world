@@ -26,3 +26,4 @@
   - [Emerging Trends and Future Prospects](chapter-8-1.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
